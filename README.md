@@ -1,28 +1,29 @@
-#Fitur Website Halaman Depan :
+Demo website 
+www.masjidnursulaiman.my.id
+
+#Fitur Website bagian user :
 
 - Beranda
-- Sambutan Kepala Sekolah
-- Data Guru
-- Alamat Sekolah (Menggunakan google Maps)
-- Pengumuman Sekolah
-- Agenda Sekolah
-- Download File Belajar
-- Galeri Sekolah
-- Berita Sekolah
-- Video Interaktif Belajar Siswa (Fitur Unggulan)
+- Tentang Masjid
+- Data pengurus masjid
+- Pengumuman Masjid
+- Agenda Masjid
+- Download File Kajian
+- Galeri kegiatan masjid
+- Sejarah masjid
+- berita masjid
+- Video kajian (integrasi dengan youtube)
 
-Fitur Website Halaman Administrator :
+Fitur Website bagian Administrator :
 
 - Beranda
-- Tambah/Edit Guru
-- Tambah/Edit Agenda Sekolah
-- Tambah/Edit Pengumuman Sekolah
-- Tambah/Edit Files Download
-- Tambah/EditData Mata Pelajaran
-- Tambah/Edit Data Kelas
-- Tambah/Edit Data Video belajar
-- Tambah/Edit Data Berita
-- Tambah/Edit Data Galeri Sekolah
+- Tambah/Edit pengurus masjid
+- Tambah/Edit Agenda masjid
+- Tambah/Edit Pengumuman masjid
+- Tambah/Edit download file
+- Tambah/Edit data video
+- Tambah/Edit data berita
+- Tambah/Edit data galeri masjid 
 
 Versi XAMPP Yang Digunakan Pada Sistem Ini Sebagai Berikut :
 - XAMPP Versi 5.6.37
@@ -31,10 +32,4 @@ Versi XAMPP Yang Digunakan Pada Sistem Ini Sebagai Berikut :
 
 Frontend : CSS Template
 Backend : SB Admin
-Versi Framework CI yang digunakan 3.1.9
-
-Cara Instalasi Sistem Ini Pada Komputer/Laptop/Netbook
-- Copy file yang telah di download
-- letakkan pada folder instalasi xampp (biasanya terletak di C:\xampp\htdocs\)
-- Lalu buat database pada PHPMyadmin klik tombol export arahkan file .sql pada folder yang telah kita sediakan
-- lalu buka browser (bisa menggunakan chrome,firefox,atau lainnya) dan ketikkan pada browser http://localhost/nama-folder-kamu
+Versi Framework CI 3.1.9
